@@ -1,5 +1,14 @@
 # Learning Python
 
-Currently I am learning Python for a project. Here I am going to upload my python language practice.
+## General Info
+I am learning :thinking: Python. And in this repository, I upload my code while I am learning :point_up_2:.
 
-Uploaded my python code 
+## Technologies
+I have used
+- Python
+
+## Setup
+You just have to copy the code and save it with the extension .py in your machine and you are good to go.
+
+## Repositiory Status
+Not finished yet.
